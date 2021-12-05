@@ -17,5 +17,7 @@ Link to the original Dataset: https://www.kaggle.com/himanshupoddar/zomato-banga
 
 Link to our Kaggle Notebook: https://www.kaggle.com/aniruddhakj/zomato-success-factors-rating-predictions
 
+Link to our Dataset used for predictions: https://www.kaggle.com/aniruddhakj/zomato-prediction
 
-Go to this link, copy and edit the notebook and run to see the results.
+Go to the Kaggle Link, copy and edit the notebook and run to see the results. You may tweak a few settings
+as directed in the comments to see different results.
