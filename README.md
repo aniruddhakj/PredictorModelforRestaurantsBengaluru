@@ -16,3 +16,6 @@ Aniruddha Krishna Jha - PES1UG19CS064
 Link to the original Dataset: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 Link to our Kaggle Notebook: https://www.kaggle.com/aniruddhakj/zomato-success-factors-rating-predictions
+
+
+Go to this link, copy and edit the notebook and run to see the results.
